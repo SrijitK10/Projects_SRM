@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1617382658 source:d:\computer graphics\hotel_management\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<time.h>
+	<ctime>
+	<fstream>
+	<vector>
+	<string>
+
